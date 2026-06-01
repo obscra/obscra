@@ -8,6 +8,9 @@
 
 
 <!-- Badges -->
+
+<div align="center">
+  
 <a href="https://obscra.app"><img src="https://img.shields.io/badge/Live_App-obscra.app-9945FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://explore.obscra.app"><img src="https://img.shields.io/badge/Explorer-explore.obscra.app-14F195?style=for-the-badge&logo=solana&logoColor=white"/></a>
 <a href="https://x.com/obscra_void"><img src="https://img.shields.io/badge/Twitter-@obscra__void-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -23,11 +26,6 @@
 <!-- ====================== STATS ====================== -->
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=obscra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9945FF&icon_color=14F195"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9945FF&langs_count=8"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=obscra&theme=tokyonight&hide_border=true&background=0D1117&ring=9945FF&fire=14F195&currStreakLabel=9945FF"/>
 
